@@ -1,5 +1,5 @@
 # sharminakter-profile
-<img src="https://i.ibb.co.com/SDXJgJKt/Blue-Brown-Corporate-Online-Business-Webinar-Banner.png" alt="My Profile Banner" width="800" />
+<img src="https://i.ibb.co.com/SDXJgJKt/Blue-Brown-Corporate-Online-Business-Webinar-Banner.png" alt="My Profile Banner" width=full />
 <h1 align="center">Hi 👋, I'm Sharmin Akter</h1>
 <h3 align="center">Full-Stak Devloper | React Specialist | CSE Student</h3>
 <br>
